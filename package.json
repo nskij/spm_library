@@ -1,0 +1,9 @@
+{
+  "name": "spm_library",
+  "version": "1.0.0",
+  "description": "spacemarket library tool",
+  "main": "index.js",
+  "repository": "git@github.com:nskij/spm_library.git",
+  "author": "nskij <n.skij0123@gmail.com>",
+  "license": "MIT"
+}
